@@ -1,0 +1,12 @@
+//Launcher
+0xcD707508E525e0eCC78080Cd977a010d540d9E26
+//MIR
+0x10E3a6739D5b7ba926D5519D16E44d2ad5921059
+//NEW LAUNCHER
+0x914bD795f7a80Ef4e69056B4f11957ebc2b8dB19
+
+// Launcher ABI //
+
+[{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"MIRList","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"getMIRList","outputs":[{"internalType":"address[]","name":"","type":"address[]"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"newMIR","outputs":[],"stateMutability":"nonpayable","type":"function"}]
+
+// MIR ABI //
